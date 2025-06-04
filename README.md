@@ -1,1 +1,1 @@
-Golang Course
+Golang Curso
